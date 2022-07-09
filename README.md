@@ -3,7 +3,7 @@
 
 
 <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"  align="right" width="400">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnu9701&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu9701" /> </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedanshi333&label=Profile%20views&color=0e75b6&style=flat" alt="vedanshi333" /> </p>
 
